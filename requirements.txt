@@ -1,0 +1,8 @@
+streamlit
+groq
+python-dotenv
+langdetect
+Pillow
+PyPDF2
+opencv-python
+numpy
