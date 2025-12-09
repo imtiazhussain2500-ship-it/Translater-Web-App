@@ -150,7 +150,7 @@ if 'batch_mode' not in st.session_state:
 
 st.set_page_config(page_title="50-Language Translator", page_icon="🌐", layout="wide")
 
-st.title("🌐 Advanced 50-Language Translator Pro")
+st.title(" AI Translator  App 🌐")
 st.caption("⚡ Powered by Groq + Llama 3.3 · Lightning-fast translations across 50 languages")
 st.markdown("<p style='text-align: center; color: #667eea; font-weight: bold;'>👨‍💻 Developed by Imtiaz</p>", unsafe_allow_html=True)
 
